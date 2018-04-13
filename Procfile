@@ -1,1 +1,1 @@
-worker: py red.py
+worker: py launcher.py
